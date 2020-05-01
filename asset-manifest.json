@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ZTM-react-CatsRolodex/static/css/main.901cdef3.chunk.css",
+    "main.js": "/ZTM-react-CatsRolodex/static/js/main.114c7d01.chunk.js",
+    "main.js.map": "/ZTM-react-CatsRolodex/static/js/main.114c7d01.chunk.js.map",
+    "runtime-main.js": "/ZTM-react-CatsRolodex/static/js/runtime-main.05340dd8.js",
+    "runtime-main.js.map": "/ZTM-react-CatsRolodex/static/js/runtime-main.05340dd8.js.map",
+    "static/js/2.5d2ccddd.chunk.js": "/ZTM-react-CatsRolodex/static/js/2.5d2ccddd.chunk.js",
+    "static/js/2.5d2ccddd.chunk.js.map": "/ZTM-react-CatsRolodex/static/js/2.5d2ccddd.chunk.js.map",
+    "index.html": "/ZTM-react-CatsRolodex/index.html",
+    "precache-manifest.be7089ea9293954399771006d7b93ec7.js": "/ZTM-react-CatsRolodex/precache-manifest.be7089ea9293954399771006d7b93ec7.js",
+    "service-worker.js": "/ZTM-react-CatsRolodex/service-worker.js",
+    "static/css/main.901cdef3.chunk.css.map": "/ZTM-react-CatsRolodex/static/css/main.901cdef3.chunk.css.map",
+    "static/js/2.5d2ccddd.chunk.js.LICENSE.txt": "/ZTM-react-CatsRolodex/static/js/2.5d2ccddd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05340dd8.js",
+    "static/js/2.5d2ccddd.chunk.js",
+    "static/css/main.901cdef3.chunk.css",
+    "static/js/main.114c7d01.chunk.js"
+  ]
+}
