@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+h1 {
+  font-family: 'Sigmar One', cursive;
+  font-size: 72px;
+  color: black;
+  text-shadow: 3px 4px white;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
